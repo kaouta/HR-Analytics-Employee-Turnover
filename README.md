@@ -4,7 +4,7 @@ Employee attrition is a loss to company in both monetary and non-monetary,in thi
 ## About the work:
 In this project we will:
 * Performing exploratory data analysis to learn why employeen do leave or stay
-* Train a logistic regression classifier ,random forest classifier and ANN model
+* Train a logistic regression classifier ,random forest classifier , ANN model.... and compare their accuracy
 * Apply sigmoid function to obtain probability
 * Do some Data Visualization to plot Kernel density enstimate(KDE) plots,boxplots,countplots...
 * Evaluate classification models using confusion matrix,precision,recall and F1-score.
